@@ -1,0 +1,37 @@
+.tutulo{
+	text-align:center;
+	height:130px:
+}
+.cuerpo{
+	background:url(fundasperven.jpg) no-repeat center;
+	height:500px;
+	font:"Comic Sans MS";
+	color:#0F46AC;
+	vertical-align:middle;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.aviso{
+	text-align:center;
+	vertical-align:middle;
+	font-size:26px;
+}
+.dias{
+	font-size:42px;
+	text-align:center;
+	vertical-align:middle;
+}
+.horas{
+	font-size:36px;
+	text-align:center;
+	vertical-align:middle;
+}
+.evento{
+	font-size:24px;
+	text-align:center;
+	vertical-align:middle;
+}
+.pie{
+	height:410px;
+	text-align:center;
+	vertical-align:middle;
+}
